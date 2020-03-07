@@ -1,0 +1,556 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1561265979567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/testDemo4.py" timestamp="1561297810229">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_multiple_assert.py" timestamp="1562381240607">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonFunction/callAdd.py" timestamp="1558172565848">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/testcase/test_mainpage_swipe.py" timestamp="1558362407891">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/utils/capturepic.py" timestamp="1562471356477">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1563971514706">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/pytest_regulation" timestamp="1562379722868">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/private.py" timestamp="1561812561353">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/user.py" timestamp="1564220448062">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/demo/__init__.py" timestamp="1558362318122">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/page/SelectedPage.py" timestamp="1558769125819">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/__init__.py" timestamp="1558362453820">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/weixin.yaml" timestamp="1564215480961">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample.py" timestamp="1561805849403">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="4" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/uiconfig/__init__.py" timestamp="1558362424907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/page/SearchPage.py" timestamp="1558769116023">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_user.py" timestamp="1564217319268">
+        <mark key="[" line="8" column="19" />
+      </file>
+      <file name="C:/work/JavaProjects/class5/run.py" timestamp="1583571134698">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/7list.py" timestamp="1560671080841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/testDmo2.py" timestamp="1561274907686">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/6str_excise.py" timestamp="1560668649758">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/uiconfig/jiaoyi_tab.py" timestamp="1558362431795">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_order.py" timestamp="1562382162463">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/webUiTest/utils/xlsxUtil.py" timestamp="1563971191789">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/webUiTest/testcase/testCase.py" timestamp="1563971339716">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/page_object/testcase/test_selected.py" timestamp="1558767212864">
+        <mark key="[" line="15" column="11" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/example_1.py" timestamp="1561865851415">
+        <mark key="[" line="5" column="36" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/config/config.py" timestamp="1558363998300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/findindex12.py" timestamp="1560691410619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/alluredemo/login/test_login_session.py" timestamp="1562470815786">
+        <mark key="[" line="16" column="46" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample4.py" timestamp="1561811372959">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/page/App.py" timestamp="1558769089001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9_finish/page_object/driver/AndroidClient.py" timestamp="1583572668027" />
+      <file name="C:/work/PycharmProjects/basic/src/testcases/test_pyexample_1.py" timestamp="1562378307724">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583573758242">
+        <mark key="[" line="1" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_parameter.py" timestamp="1562380740881">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/lesson/note1" timestamp="1558246127723">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1583580402552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/department.py" timestamp="1564211304275">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/bubble_sort.py" timestamp="1562383250776">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/uinttestDemo/__init__.py" timestamp="1558167500903">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/uiconfig/main_page_ui.py" timestamp="1558362447552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/__init__.py" timestamp="1558244086208">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/demo/test2.py" timestamp="1558362336548">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_pyexample_rerun.py" timestamp="1562381603015">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonLoop/loop1.py" timestamp="1558167752434">
+        <mark key="[" line="1" column="12" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/1.py" timestamp="1561267899212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonBasic/strexample.py" timestamp="1558149641208">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/decorator.py" timestamp="1561860134327">
+        <mark key="[" line="17" column="37" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonLoop/exceptionDemo01.py" timestamp="1558171202367">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/testcase/test_login_module.py" timestamp="1558363955339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/Demo1.py" timestamp="1563158995281">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonBasic/test1/__init__.py" timestamp="1558153975661">
+        <mark key="[" line="1" column="1" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/driver/AndroidClient.py" timestamp="1558769138961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/8dict.py" timestamp="1560671631573">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/11function.py" timestamp="1560690688162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/demo-proj/testcases/demo_testcase.yml" timestamp="1563599390126">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/lesson/OsExample1.py" timestamp="1558247914027">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/page/BasePage.py" timestamp="1558769097480">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/pythonClass/lesson/decorator.py" timestamp="1558241141768">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/example_class.py" timestamp="1561865902452">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample6.py" timestamp="1561811819267">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/GuidePage.py" timestamp="1583578630022">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/classdemo.py" timestamp="1561862338516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/testcase/__init__.py" timestamp="1558362349725">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/15tryfileopen.py" timestamp="1561262049224">
+        <mark key="[" line="1" column="22" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/utexample.py" timestamp="1561867598251">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonFunction/defaultPara.py" timestamp="1558172958692">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/testcase/test_danjuanjijin.py" timestamp="1558362356862">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/runnerwithallure.py" timestamp="1562471988128">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="D:/tools/Python/Python36/Lib/site-packages/appium/webdriver/webdriver.py" timestamp="1558838612718">
+        <mark key="[" line="259" column="12" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample3.py" timestamp="1561810766629">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/12.py" timestamp="1562384501037">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/my_module12.py" timestamp="1560691838552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/webUiTest/testdata/getTestData.py" timestamp="1563971217819">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/page/MainPage.py" timestamp="1558769106264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/lesson/subprocessExample.py" timestamp="1558261703203">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="/Dummy.regexp" timestamp="1558357132488">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/config/__init__.py" timestamp="1558362265629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/token.py" timestamp="1564212433553">
+        <mark key="[" line="17" column="70" />
+        <mark key="]" line="17" column="70" />
+        <mark key="." line="17" column="70" />
+      </file>
+      <file name="C:/work/PycharmProjects/webUiTest/utils/browser.py" timestamp="1563970414650">
+        <mark key="[" line="146" column="19" />
+        <mark key="]" line="146" column="19" />
+        <mark key="." line="146" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/webUiTest/testcase/testDemo01.py" timestamp="1563969980931">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/testcase/TestGuidePage.py" timestamp="1583588103700">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/mainmodule.py" timestamp="1562471386660">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/Appium/xueqiu/__init__.py" timestamp="1558357883373">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_sort.py" timestamp="1562392576043">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_weixin.py" timestamp="1564215626099">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonFunction/UncertainLengthPara.py" timestamp="1558174459062">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonBasic/__init__.py" timestamp="1558153941979">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9_finish/page_object/page/MainPage.py" timestamp="1558854368038">
+        <mark key="[" line="35" column="27" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/lesson/ConfigParserExample.py" timestamp="1558262053776">
+        <mark key="[" line="1" column="13" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/uiconfig/login_module_ui.py" timestamp="1558362438901">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/example_1.py" timestamp="1561865216554">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/common/driver.py" timestamp="1558362308307">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9/page_object/testcase/test_selected.py" timestamp="1558769083595">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/1.py" timestamp="1561782981982">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/ApiTesting/test_requests.py" timestamp="1563195361812">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/9set.py" timestamp="1560672141008">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/Demo2.py" timestamp="1563159199355">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/action/TouchAction.py" timestamp="1583580228873">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/collegeStudeng.py" timestamp="1561783273476">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/src/common/__init__.py" timestamp="1558362301212">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_parameters.py" timestamp="1562380305911">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample5.py" timestamp="1561811784324">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+      </file>
+      <file name="C:/work/PycharmProjects/appium_online_9_finish/page_object/page/BasePage.py" timestamp="1583573464421" />
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/5whiledemo.py" timestamp="1560668300020">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/demo-proj/login.yml" timestamp="1563608913474">
+        <mark key="[" line="2" column="16" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/Appium/xueqiu/getsmscode.py" timestamp="1558357889346">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/py3example.py" timestamp="1561868037190">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1565419364052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/py3report.py" timestamp="1561868247817">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/python_0424/10listdicttip.py" timestamp="1560690039171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/modules/lesson/timeExample.py" timestamp="1558968264940">
+        <mark key="[" line="13" column="36" />
+      </file>
+      <file name="E:/课程内容/appium_test-master/report/__init__.py" timestamp="1558362279357">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/pythonClass/__init__.py" timestamp="1558231559125">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583573400352">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/page_object/page/App.py" timestamp="1558764413317">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/iJmeter/application/orderservice.py" timestamp="1565428837031">
+        <mark key="[" line="255" column="25" />
+        <mark key="]" line="255" column="25" />
+        <mark key="." line="255" column="25" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/driver/JeejioMessageClient.py" timestamp="1583572753998">
+        <mark key="[" line="4" column="19" />
+      </file>
+      <file name="E:/课件/九期课件190514/九期课件/pythonRecord/src/classmodule/classexample5.py" timestamp="1558237868349">
+        <mark key="[" line="10" column="9" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample2.py" timestamp="1561810250355">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="/injection.txt" timestamp="1558357132488">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/unitdemo.py" timestamp="1561867371252">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_department.py" timestamp="1564213484315">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+      </file>
+      <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/App.py" timestamp="1583573993536">
+        <mark key="[" line="1" column="19" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/persondemo2.py" timestamp="1561782436599">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="C:/work/PycharmProjects/basic/src/classdemo/persondemo.py" timestamp="1561781876699">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="153" column="0" filename="C:/work/PycharmProjects/first/python0424/1234.py" />
+      <jump line="182" column="4" filename="C:/work/PycharmProjects/first/python0424/1234.py" />
+      <jump line="4" column="21" filename="C:/work/PycharmProjects/first/python0424/TestDemo.py" />
+      <jump line="1" column="8" filename="C:/work/PycharmProjects/first/python0424/TestDemo.py" />
+      <jump line="10" column="16" filename="C:/work/PycharmProjects/basic/pythonFunction/test/testDemo4.py" />
+      <jump line="19" column="8" filename="C:/work/PycharmProjects/basic/pythonFunction/test/testSubServer.py" />
+      <jump line="18" column="8" filename="C:/work/PycharmProjects/basic/pythonClass/lesson/classExample4.py" />
+      <jump line="29" column="13" filename="C:/work/PycharmProjects/basic/src/Appium/xueqiu/test_login.py" />
+      <jump line="16" column="33" filename="C:/work/PycharmProjects/appium_online_9_finish/page_object/testcase/test_selected.py" />
+      <jump line="0" column="2" filename="C:/work/PycharmProjects/basic/src/python_0424/3ifelse.py" />
+      <jump line="27" column="14" filename="C:/work/PycharmProjects/basic/src/python_0424/16unittest3.py" />
+      <jump line="9" column="0" filename="C:/work/PycharmProjects/basic/src/testcases/alluredemo/login/test_login.py" />
+      <jump line="48" column="34" filename="C:/work/PycharmProjects/ApiTesting_9-master/testcase/test_requests.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>BasePag</text>
+      </register>
+      <register name="-" type="4">
+        <text>BasePag</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>f.find(self.edit_locator).send_keys(n</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+      </register>
+      <register name="3" type="4">
+        <text>env:
+  corpid:
+  secret:</text>
+      </register>
+      <register name="4" type="4">
+        <text>,
+            &quot;id&quot;:2</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgdGVzdF94dWVxaXVfcXVvdGUoc2VsZik6CiAgICAgICAgICAgIHBhcmFtcyA9IHsnX3QnOiAnMVVOS05PV05jNjA3MTVjYjRhNjE0MjViMzExMDM0YTQ5ZjRhYTAyNC4zNDQ2MjYwNzc5LjE1NjMwMDI1MjE0MjQuMTU2MzAwNTI0NjYyMCcsCiAgICAgICAgICAgICAgICAgICAgICAnX3MnOiAnOGM2YjJkJywKICAgICAgICAgICAgICAgICAgICAgICdjYXRlZ29yeSc6ICcxJywKICAgICAgICAgICAgICAgICAgICAgICdwaWQnOiAtMSwKICAgICAgICAgICAgICAgICAgICAgICdzaXplJzogMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgICAneCc6IDEuMywKICAgICAgICAgICAgICAgICAgICAgICdwYWdlJzogMX0KCiAgICAgICAgICAgIGhlYWRlciA9IHsnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC44LHpoLUNOO3E9MC42LHpoO3E9MC40JywKICAgICAgICAgICAgICAgICAgICAgICdVc2VyLUFnZW50JzogJ1h1ZXFpdSBBbmRyb2lkIDExLjE5JywKICAgICAgICAgICAgICAgICAgICAgICdIb3N0JzogJ3N0b2NrLnh1ZXFpdS5jb20nfQoKICAgICAgICAgICAgY29va2llcyA9IHsneHFfYV90b2tlbic6ICc1ODA2YTcwYzZiYzVkNWZiMmIwMDk3OGFlYjE4OTU1MzJmZmZlNTAyJywgJ3UnOiAnMzQ0NjI2MDc3OSd9CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHNlbGYudXJsLCBwYXJhbXM9cGFyYW1zLCBoZWFkZXJzPWhlYWRlciwgY29va2llcz1jb29raWVzKQogICAgICAgICAgICBsb2dnaW5nLmluZm8oanNvbi5kdW1wcyhyZXNwb25zZS5qc29uKCksIGluZGVudD0yKSkKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGpzb25wYXRoLmpzb25wYXRoKHJlc3BvbnNlLmpzb24oKSwgJyQuZGF0YS5zdG9ja3NbKl0ubmFtZScpKQogICAgICAgICAgICBhc3NlcnRfdGhhdChqc29ucGF0aC5qc29ucGF0aChyZXNwb25zZS5qc29uKCksICckLmRhdGEuc3RvY2tzWypdLm5hbWUnKSwKICAgICAgICAgICAgICAgICAgICAgICAgYW55X29mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFzX2l0ZW0oJ9XQyczS+NDQJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNfaXRlbSgnxr2wstL40NAnKQogICAgICAgICAgICAgICAgICAgICAgICApKQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Y2xhc3MgWGxzeFV0aWw6CgogICAgZGVmIHJlYWRYbHN4KHNlbGYsIHhsRmlsZSwgc2hlZXROYW1lKToKICAgICAgICB4bCA9IHhscmQub3Blbl93b3JrYm9vayh4bEZpbGUpICAjICgidGVzdERhdGEueGxzeCIpCiAgICAgICAgdGVzdERhdGEgPSB4bC5zaGVldHMoKVtzaGVldE5hbWVdCiAgICAgICAgZGF0YSA9IFtdCgogICAgICAgIGZvciByb3cgaW4gcmFuZ2UoMCwgdGVzdERhdGEubnJvd3MpOgogICAgICAgICAgICByb3dEYXRhID0gW10KICAgICAgICAgICAgZm9yIGNvbCBpbiByYW5nZSgwLCB0ZXN0RGF0YS5uY29scyk6CiAgICAgICAgICAgICAgICByb3dEYXRhLmFwcGVuZChzdHIodGVzdERhdGEuY2VsbChyb3csIGNvbCkudmFsdWUpKQogICAgICAgICAgICBkYXRhLmFwcGVuZChyb3dEYXRhKQoKICAgICAgICByZXR1cm4gZGF0YQoKCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiMgZW5jb2Rpbmc9InV0Zi04Ig==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CgoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tCtf31d+jukxpdTYxMDkyMQrAtNS0o7pDU0ROCtStzsSjumh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8geW91cmFuMDIxMDAyMTAgLyBhcnRpY2xlIC8gZGV0YWlscyAvIDc5NjI4Nzk3CrDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906Oh</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDx0dXJ0bGVcPg==</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxteV9zdHJcPg==</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
