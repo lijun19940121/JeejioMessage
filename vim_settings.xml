@@ -176,10 +176,10 @@
       <file name="C:/work/PycharmProjects/basic/pythonLoop/exceptionDemo01.py" timestamp="1558171202367">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583656928783">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="34" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583657303518">
+        <mark key="[" line="99" column="60" />
+        <mark key="]" line="99" column="60" />
+        <mark key="." line="99" column="60" />
       </file>
       <file name="D:/work/PythonProjects/JeejioMessage/lijun/action/TouchAction.py" timestamp="1583649894379" />
       <file name="E:/课程内容/appium_test-master/src/testcase/test_login_module.py" timestamp="1558363955339">
@@ -320,6 +320,11 @@
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestFirstPage.py" timestamp="1583658107850">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
       </file>
       <file name="C:/work/PycharmProjects/basic/pythonFunction/UncertainLengthPara.py" timestamp="1558174459062">
         <mark key="[" line="1" column="13" />
@@ -487,10 +492,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICBsb2dpbl9wYWdlID0g</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICBsb2dpbl9wYWdlID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
