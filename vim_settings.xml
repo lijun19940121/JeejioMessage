@@ -122,7 +122,7 @@
       <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583573758242">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583652841789">
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583655426754">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
@@ -176,7 +176,11 @@
       <file name="C:/work/PycharmProjects/basic/pythonLoop/exceptionDemo01.py" timestamp="1558171202367">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583653609869" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583655370781">
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="34" />
+        <mark key="." line="49" column="34" />
+      </file>
       <file name="D:/work/PythonProjects/JeejioMessage/lijun/action/TouchAction.py" timestamp="1583649894379" />
       <file name="E:/课程内容/appium_test-master/src/testcase/test_login_module.py" timestamp="1558363955339">
         <mark key="[" line="0" column="0" />
@@ -481,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uid</text>
+        <text>timeout</text>
       </register>
       <register name="-" type="4">
-        <text>uid</text>
+        <text>timeout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
