@@ -21,7 +21,7 @@
       <file name="C:/work/PycharmProjects/basic/src/utils/capturepic.py" timestamp="1562471356477">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1563971514706">
+      <file name="/a.dummy" timestamp="1583652871736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,6 +121,11 @@
       </file>
       <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583573758242">
         <mark key="[" line="1" column="19" />
+      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583652841789">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_parameter.py" timestamp="1562380740881">
         <mark key="[" line="3" column="19" />
@@ -302,6 +307,9 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/LoginPage.py" timestamp="1583653028116">
+        <mark key="[" line="3" column="19" />
+      </file>
       <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_weixin.py" timestamp="1564215626099">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -341,11 +349,11 @@
         <mark key="]" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestGuidePage.py" timestamp="1583652044098">
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestGuidePage.py" timestamp="1583652818739">
         <mark key="'" line="10" column="38" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/python_0424/9set.py" timestamp="1560672141008">
         <mark key="[" line="0" column="0" />
@@ -473,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GuidePage.guide_page()</text>
+        <text>uid</text>
       </register>
       <register name="-" type="4">
-        <text>GuidePage.guide_page()</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
