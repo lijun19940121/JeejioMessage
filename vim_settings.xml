@@ -122,10 +122,10 @@
       <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583573758242">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583655426754">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583656574307">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_parameter.py" timestamp="1562380740881">
         <mark key="[" line="3" column="19" />
@@ -176,10 +176,10 @@
       <file name="C:/work/PycharmProjects/basic/pythonLoop/exceptionDemo01.py" timestamp="1558171202367">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583655370781">
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="34" />
-        <mark key="." line="49" column="34" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/BasePage.py" timestamp="1583656928783">
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
       </file>
       <file name="D:/work/PythonProjects/JeejioMessage/lijun/action/TouchAction.py" timestamp="1583649894379" />
       <file name="E:/课程内容/appium_test-master/src/testcase/test_login_module.py" timestamp="1558363955339">
@@ -311,8 +311,10 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/LoginPage.py" timestamp="1583653028116">
-        <mark key="[" line="3" column="19" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/LoginPage.py" timestamp="1583656864307">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_weixin.py" timestamp="1564215626099">
         <mark key="[" line="4" column="17" />
@@ -485,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timeout</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>timeout</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -497,34 +499,34 @@
         <text>f.find(self.edit_locator).send_keys(n</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBzZWxmLmZpbmRfYnlfY3NzKCcnKQoK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+      </register>
+      <register name="4" type="4">
         <text>env:
   corpid:
   secret:</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
             &quot;id&quot;:2</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBkZWYgdGVzdF94dWVxaXVfcXVvdGUoc2VsZik6CiAgICAgICAgICAgIHBhcmFtcyA9IHsnX3QnOiAnMVVOS05PV05jNjA3MTVjYjRhNjE0MjViMzExMDM0YTQ5ZjRhYTAyNC4zNDQ2MjYwNzc5LjE1NjMwMDI1MjE0MjQuMTU2MzAwNTI0NjYyMCcsCiAgICAgICAgICAgICAgICAgICAgICAnX3MnOiAnOGM2YjJkJywKICAgICAgICAgICAgICAgICAgICAgICdjYXRlZ29yeSc6ICcxJywKICAgICAgICAgICAgICAgICAgICAgICdwaWQnOiAtMSwKICAgICAgICAgICAgICAgICAgICAgICdzaXplJzogMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgICAneCc6IDEuMywKICAgICAgICAgICAgICAgICAgICAgICdwYWdlJzogMX0KCiAgICAgICAgICAgIGhlYWRlciA9IHsnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC44LHpoLUNOO3E9MC42LHpoO3E9MC40JywKICAgICAgICAgICAgICAgICAgICAgICdVc2VyLUFnZW50JzogJ1h1ZXFpdSBBbmRyb2lkIDExLjE5JywKICAgICAgICAgICAgICAgICAgICAgICdIb3N0JzogJ3N0b2NrLnh1ZXFpdS5jb20nfQoKICAgICAgICAgICAgY29va2llcyA9IHsneHFfYV90b2tlbic6ICc1ODA2YTcwYzZiYzVkNWZiMmIwMDk3OGFlYjE4OTU1MzJmZmZlNTAyJywgJ3UnOiAnMzQ0NjI2MDc3OSd9CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHNlbGYudXJsLCBwYXJhbXM9cGFyYW1zLCBoZWFkZXJzPWhlYWRlciwgY29va2llcz1jb29raWVzKQogICAgICAgICAgICBsb2dnaW5nLmluZm8oanNvbi5kdW1wcyhyZXNwb25zZS5qc29uKCksIGluZGVudD0yKSkKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGpzb25wYXRoLmpzb25wYXRoKHJlc3BvbnNlLmpzb24oKSwgJyQuZGF0YS5zdG9ja3NbKl0ubmFtZScpKQogICAgICAgICAgICBhc3NlcnRfdGhhdChqc29ucGF0aC5qc29ucGF0aChyZXNwb25zZS5qc29uKCksICckLmRhdGEuc3RvY2tzWypdLm5hbWUnKSwKICAgICAgICAgICAgICAgICAgICAgICAgYW55X29mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFzX2l0ZW0oJ9XQyczS+NDQJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNfaXRlbSgnxr2wstL40NAnKQogICAgICAgICAgICAgICAgICAgICAgICApKQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Y2xhc3MgWGxzeFV0aWw6CgogICAgZGVmIHJlYWRYbHN4KHNlbGYsIHhsRmlsZSwgc2hlZXROYW1lKToKICAgICAgICB4bCA9IHhscmQub3Blbl93b3JrYm9vayh4bEZpbGUpICAjICgidGVzdERhdGEueGxzeCIpCiAgICAgICAgdGVzdERhdGEgPSB4bC5zaGVldHMoKVtzaGVldE5hbWVdCiAgICAgICAgZGF0YSA9IFtdCgogICAgICAgIGZvciByb3cgaW4gcmFuZ2UoMCwgdGVzdERhdGEubnJvd3MpOgogICAgICAgICAgICByb3dEYXRhID0gW10KICAgICAgICAgICAgZm9yIGNvbCBpbiByYW5nZSgwLCB0ZXN0RGF0YS5uY29scyk6CiAgICAgICAgICAgICAgICByb3dEYXRhLmFwcGVuZChzdHIodGVzdERhdGEuY2VsbChyb3csIGNvbCkudmFsdWUpKQogICAgICAgICAgICBkYXRhLmFwcGVuZChyb3dEYXRhKQoKICAgICAgICByZXR1cm4gZGF0YQoKCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgZW5jb2Rpbmc9InV0Zi04Ig==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CgoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tCtf31d+jukxpdTYxMDkyMQrAtNS0o7pDU0ROCtStzsSjumh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8geW91cmFuMDIxMDAyMTAgLyBhcnRpY2xlIC8gZGV0YWlscyAvIDc5NjI4Nzk3CrDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906Oh</text>
+        <text encoding="base64">CiMgZW5jb2Rpbmc9InV0Zi04Ig==</text>
       </register>
     </registers>
     <search>
