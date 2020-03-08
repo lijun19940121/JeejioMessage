@@ -21,7 +21,7 @@
       <file name="C:/work/PycharmProjects/basic/src/utils/capturepic.py" timestamp="1562471356477">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1583652871736">
+      <file name="/a.dummy" timestamp="1583659460165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -106,6 +106,7 @@
       <file name="C:/work/PycharmProjects/basic/src/testcases/alluredemo/login/test_login_session.py" timestamp="1562470815786">
         <mark key="[" line="16" column="46" />
       </file>
+      <file name="C:/work/PycharmProjects/appium_online_9_finish/page_object/page/LoginPage.py" timestamp="1583660115947" />
       <file name="C:/work/PycharmProjects/basic/src/classmodule/classexample4.py" timestamp="1561811372959">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="20" column="18" />
@@ -122,10 +123,10 @@
       <file name="C:/work/PycharmProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583573758242">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583656574307">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/FirstPage.py" timestamp="1583660935045">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/testcases/ptdemo/test_parameter.py" timestamp="1562380740881">
         <mark key="[" line="3" column="19" />
@@ -185,6 +186,12 @@
       <file name="E:/课程内容/appium_test-master/src/testcase/test_login_module.py" timestamp="1558363955339">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/MainPage.py" timestamp="1583660960578">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/work/PycharmProjects/basic/src/classdemo/Demo1.py" timestamp="1563158995281">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="14" />
@@ -238,6 +245,9 @@
       </file>
       <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/utexample.py" timestamp="1561867598251">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/driver/JeejioMessageClient.py" timestamp="1583661374524">
+        <mark key="[" line="12" column="15" />
       </file>
       <file name="C:/work/PycharmProjects/basic/pythonFunction/defaultPara.py" timestamp="1558172958692">
         <mark key="[" line="1" column="13" />
@@ -311,21 +321,17 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/LoginPage.py" timestamp="1583656864307">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/LoginPage.py" timestamp="1583660921951">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/work/PycharmProjects/ApiTesting_9-master/weixin/contact/test_weixin.py" timestamp="1564215626099">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestFirstPage.py" timestamp="1583658107850">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestFirstPage.py" timestamp="1583658552800" />
       <file name="C:/work/PycharmProjects/basic/pythonFunction/UncertainLengthPara.py" timestamp="1558174459062">
         <mark key="[" line="1" column="13" />
       </file>
@@ -349,6 +355,11 @@
       </file>
       <file name="C:/work/PycharmProjects/appium_online_9/page_object/testcase/test_selected.py" timestamp="1558769083595">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestLoginPage.py" timestamp="1583661239853">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/classdemo/1.py" timestamp="1561782981982">
         <mark key="[" line="3" column="5" />
@@ -405,7 +416,7 @@
       <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/py3example.py" timestamp="1561868037190">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1583592484175">
+      <file name="/Dummy.txt" timestamp="1583660639861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/py3report.py" timestamp="1561868247817">
@@ -446,6 +457,11 @@
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
+      </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/page/App.py" timestamp="1583661399047">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/injection.txt" timestamp="1558357132488">
         <mark key="[" line="0" column="0" />
@@ -489,13 +505,14 @@
       <jump line="9" column="0" filename="C:/work/PycharmProjects/basic/src/testcases/alluredemo/login/test_login.py" />
       <jump line="48" column="34" filename="C:/work/PycharmProjects/ApiTesting_9-master/testcase/test_requests.py" />
       <jump line="10" column="38" filename="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestGuidePage.py" />
+      <jump line="8" column="8" filename="D:/work/PythonProjects/JeejioMessage/lijun/page/MainPage.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBsb2dpbl9wYWdlID0g</text>
+        <text encoding="base64">ICBmcm9tIGxpanVuLnBhZ2UgaW1wb3J0IEFwcA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBsb2dpbl9wYWdlID0g</text>
+        <text encoding="base64">ICBmcm9tIGxpanVuLnBhZ2UgaW1wb3J0IEFwcA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -504,34 +521,35 @@
         <text>f.find(self.edit_locator).send_keys(n</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIHJldHVybiBzZWxmLmZpbmRfYnlfY3NzKCcnKQoK</text>
+        <text>from lijun.page.BasePage import BasePage
+from lijun.page.LoginPage import LoginPage</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
+        <text encoding="base64">CmZyb20gbGlqdW4ucGFnZS5NYWluUGFnZSBpbXBvcnQgTWFpblBhZ2U=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+        <text encoding="base64">ICAgIGRlZiBnb3RvTG9naW4oc2VsZik6CiAgICAgICAgc2VsZi5maW5kKCk=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgIHJldHVybiBzZWxmLmZpbmRfYnlfY3NzKCcnKQoK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+      </register>
+      <register name="7" type="4">
         <text>env:
   corpid:
   secret:</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>,
             &quot;id&quot;:2</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBkZWYgdGVzdF94dWVxaXVfcXVvdGUoc2VsZik6CiAgICAgICAgICAgIHBhcmFtcyA9IHsnX3QnOiAnMVVOS05PV05jNjA3MTVjYjRhNjE0MjViMzExMDM0YTQ5ZjRhYTAyNC4zNDQ2MjYwNzc5LjE1NjMwMDI1MjE0MjQuMTU2MzAwNTI0NjYyMCcsCiAgICAgICAgICAgICAgICAgICAgICAnX3MnOiAnOGM2YjJkJywKICAgICAgICAgICAgICAgICAgICAgICdjYXRlZ29yeSc6ICcxJywKICAgICAgICAgICAgICAgICAgICAgICdwaWQnOiAtMSwKICAgICAgICAgICAgICAgICAgICAgICdzaXplJzogMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgICAneCc6IDEuMywKICAgICAgICAgICAgICAgICAgICAgICdwYWdlJzogMX0KCiAgICAgICAgICAgIGhlYWRlciA9IHsnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC44LHpoLUNOO3E9MC42LHpoO3E9MC40JywKICAgICAgICAgICAgICAgICAgICAgICdVc2VyLUFnZW50JzogJ1h1ZXFpdSBBbmRyb2lkIDExLjE5JywKICAgICAgICAgICAgICAgICAgICAgICdIb3N0JzogJ3N0b2NrLnh1ZXFpdS5jb20nfQoKICAgICAgICAgICAgY29va2llcyA9IHsneHFfYV90b2tlbic6ICc1ODA2YTcwYzZiYzVkNWZiMmIwMDk3OGFlYjE4OTU1MzJmZmZlNTAyJywgJ3UnOiAnMzQ0NjI2MDc3OSd9CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHNlbGYudXJsLCBwYXJhbXM9cGFyYW1zLCBoZWFkZXJzPWhlYWRlciwgY29va2llcz1jb29raWVzKQogICAgICAgICAgICBsb2dnaW5nLmluZm8oanNvbi5kdW1wcyhyZXNwb25zZS5qc29uKCksIGluZGVudD0yKSkKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGpzb25wYXRoLmpzb25wYXRoKHJlc3BvbnNlLmpzb24oKSwgJyQuZGF0YS5zdG9ja3NbKl0ubmFtZScpKQogICAgICAgICAgICBhc3NlcnRfdGhhdChqc29ucGF0aC5qc29ucGF0aChyZXNwb25zZS5qc29uKCksICckLmRhdGEuc3RvY2tzWypdLm5hbWUnKSwKICAgICAgICAgICAgICAgICAgICAgICAgYW55X29mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFzX2l0ZW0oJ9XQyczS+NDQJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNfaXRlbSgnxr2wstL40NAnKQogICAgICAgICAgICAgICAgICAgICAgICApKQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y2xhc3MgWGxzeFV0aWw6CgogICAgZGVmIHJlYWRYbHN4KHNlbGYsIHhsRmlsZSwgc2hlZXROYW1lKToKICAgICAgICB4bCA9IHhscmQub3Blbl93b3JrYm9vayh4bEZpbGUpICAjICgidGVzdERhdGEueGxzeCIpCiAgICAgICAgdGVzdERhdGEgPSB4bC5zaGVldHMoKVtzaGVldE5hbWVdCiAgICAgICAgZGF0YSA9IFtdCgogICAgICAgIGZvciByb3cgaW4gcmFuZ2UoMCwgdGVzdERhdGEubnJvd3MpOgogICAgICAgICAgICByb3dEYXRhID0gW10KICAgICAgICAgICAgZm9yIGNvbCBpbiByYW5nZSgwLCB0ZXN0RGF0YS5uY29scyk6CiAgICAgICAgICAgICAgICByb3dEYXRhLmFwcGVuZChzdHIodGVzdERhdGEuY2VsbChyb3csIGNvbCkudmFsdWUpKQogICAgICAgICAgICBkYXRhLmFwcGVuZChyb3dEYXRhKQoKICAgICAgICByZXR1cm4gZGF0YQoKCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiMgZW5jb2Rpbmc9InV0Zi04Ig==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdGVzdF94dWVxaXVfcXVvdGUoc2VsZik6CiAgICAgICAgICAgIHBhcmFtcyA9IHsnX3QnOiAnMVVOS05PV05jNjA3MTVjYjRhNjE0MjViMzExMDM0YTQ5ZjRhYTAyNC4zNDQ2MjYwNzc5LjE1NjMwMDI1MjE0MjQuMTU2MzAwNTI0NjYyMCcsCiAgICAgICAgICAgICAgICAgICAgICAnX3MnOiAnOGM2YjJkJywKICAgICAgICAgICAgICAgICAgICAgICdjYXRlZ29yeSc6ICcxJywKICAgICAgICAgICAgICAgICAgICAgICdwaWQnOiAtMSwKICAgICAgICAgICAgICAgICAgICAgICdzaXplJzogMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgICAneCc6IDEuMywKICAgICAgICAgICAgICAgICAgICAgICdwYWdlJzogMX0KCiAgICAgICAgICAgIGhlYWRlciA9IHsnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC44LHpoLUNOO3E9MC42LHpoO3E9MC40JywKICAgICAgICAgICAgICAgICAgICAgICdVc2VyLUFnZW50JzogJ1h1ZXFpdSBBbmRyb2lkIDExLjE5JywKICAgICAgICAgICAgICAgICAgICAgICdIb3N0JzogJ3N0b2NrLnh1ZXFpdS5jb20nfQoKICAgICAgICAgICAgY29va2llcyA9IHsneHFfYV90b2tlbic6ICc1ODA2YTcwYzZiYzVkNWZiMmIwMDk3OGFlYjE4OTU1MzJmZmZlNTAyJywgJ3UnOiAnMzQ0NjI2MDc3OSd9CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHNlbGYudXJsLCBwYXJhbXM9cGFyYW1zLCBoZWFkZXJzPWhlYWRlciwgY29va2llcz1jb29raWVzKQogICAgICAgICAgICBsb2dnaW5nLmluZm8oanNvbi5kdW1wcyhyZXNwb25zZS5qc29uKCksIGluZGVudD0yKSkKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGpzb25wYXRoLmpzb25wYXRoKHJlc3BvbnNlLmpzb24oKSwgJyQuZGF0YS5zdG9ja3NbKl0ubmFtZScpKQogICAgICAgICAgICBhc3NlcnRfdGhhdChqc29ucGF0aC5qc29ucGF0aChyZXNwb25zZS5qc29uKCksICckLmRhdGEuc3RvY2tzWypdLm5hbWUnKSwKICAgICAgICAgICAgICAgICAgICAgICAgYW55X29mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFzX2l0ZW0oJ9XQyczS+NDQJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNfaXRlbSgnxr2wstL40NAnKQogICAgICAgICAgICAgICAgICAgICAgICApKQ==</text>
       </register>
     </registers>
     <search>
