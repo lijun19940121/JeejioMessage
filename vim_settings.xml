@@ -100,6 +100,11 @@
       <file name="E:/课程内容/appium_test-master/config/config.py" timestamp="1558363998300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/testcase/TestLoginDemo.py" timestamp="1584792831163">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="C:/work/PycharmProjects/basic/src/python_0424/findindex12.py" timestamp="1560691410619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,7 +252,7 @@
       <file name="C:/work/PycharmProjects/basic/src/testcases/utdemo/utexample.py" timestamp="1561867598251">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work/PythonProjects/JeejioMessage/lijun/driver/JeejioMessageClient.py" timestamp="1584779996549" />
+      <file name="D:/work/PythonProjects/JeejioMessage/lijun/driver/JeejioMessageClient.py" timestamp="1584790848335" />
       <file name="C:/work/PycharmProjects/basic/pythonFunction/defaultPara.py" timestamp="1558172958692">
         <mark key="[" line="1" column="13" />
       </file>
@@ -513,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text encoding="base64">Cl9fYXV0aG9yX18gPSAnbGlqdW4n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -525,35 +530,34 @@
         <text>f.find(self.edit_locator).send_keys(n</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9ICcxMDEzOScKICAgICAgICBwYXNzd2QgPSAnMTIzNHF3ZXIn</text>
+        <text encoding="base64">Cl9fYXV0aG9yX18gPSAnbGlqdW4n</text>
       </register>
       <register name="2" type="4">
-        <text>from lijun.page.BasePage import BasePage
-from lijun.page.LoginPage import LoginPage</text>
+        <text encoding="base64">CmNsYXNzIFRlc3RMb2dpbigpOg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CmZyb20gbGlqdW4ucGFnZS5NYWluUGFnZSBpbXBvcnQgTWFpblBhZ2U=</text>
+        <text>import pytest
+from appium.webdriver import webdriver</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBnb3RvTG9naW4oc2VsZik6CiAgICAgICAgc2VsZi5maW5kKCk=</text>
+        <text encoding="base64">CmltcG9ydCB0aW1lCgpmcm9tIHRpbWUgaW1wb3J0IHNsZWVw</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIHJldHVybiBzZWxmLmZpbmRfYnlfY3NzKCcnKQoK</text>
+        <text>from appium.webdriver.webdriver import WebDriver
+
+from lijun.page.App import App</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICO78cihyta7+rOkv+0KICAgIGRlZiBnZXRfbXl3aW5kb3dfc2l6ZShzZWxmKToKICAgICAgICAju/HIoVjW4bXEs6S2yAogICAgICAgIHggPSBzZWxmLmRyaXZlci5nZXRfd2luZG93X3NpemUoWyd3aWR0aCddKQogICAgICAgICO78cihWdbhtcSzpLbICiAgICAgICAgeSA9IHNlbGYuZHJpdmVyLmdldF93aW5kb3dfc2l6ZShbJ2hlaWdodCddKQoKICAgICAgICByZXR1cm4geCx5CgogICAgI9LyzqrDv7j2yta7+sbBxLuz37TnsrvSu9H5o6zV4sDvsrvE3Lnmtqi+38zltPPQoQogICAgZGVmIHN3aXBlX0xlZnQoc2VsZik6CiAgICAgICAgc2l6ZSA9IHNlbGYuZ2V0X215d2luZG93X3NpemUoKQogICAgICAgICNNeUxvZy5sb2dnZXIoKS5pbmZvKCJzaXplOiIgK3N0cihzaXplWzBdKSsnLCcrc3RyKHNpemVbMV0pKQogICAgICAgIHgxID0gaW50KHNpemVbMF0gKiAwLjI1KQogICAgICAgIHgyID0gaW50KHNpemVbMF0gKiAwLjc1KQogICAgICAgIHkxID0gaW50KHNpemVbMF0gKiAzLzQpCiAgICAgICAgeTIgPSBpbnQoc2l6ZVsxXSAqIDEvNikKICAgICAgICB0aW1lLnNsZWVwKDQpCiAgICAgICAgc2VsZi5kcml2ZXIuc3dpcGUoeDEseTEseDIseTIsMTAwMCk=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGNscy5kcml2ZXI=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CmZyb20gcGFnZV9vYmplY3QuZHJpdmVyLkFuZHJvaWRDbGllbnQgaW1wb3J0IEplZWppb01lc3NhZ2VDbGllbnQ=</text>
+        <text encoding="base64">CgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgc2V0dXBfY2xhc3MoY2xzKTo=</text>
       </register>
       <register name="8" type="4">
-        <text>env:
-  corpid:
-  secret:</text>
+        <text encoding="base64">I9Kzw+bX87uswb20zgogICAgZGVmIHRlc3Rfc3dpcGVfbGVmdChzZWxmKToKICAgICAgICB4ID0gMAogICAgICAgIHdoaWxlIHggPCAzOgogICAgICAgICAgICBzZWxmLmZpcnN0UGFnZS5zd2lwZV9sZWZ0KCkKICAgICAgICAgICAgeCArPSAxCiAgICAgICAgc2xlZXAoMSkKICAgICAgICAjteO798GivLTM5dHpo6y9+MjrtcfCvNKzw+YKICAgICAgICBlbnRlckFwcCA9IHNlbGYuZmlyc3RQYWdlCiAgICAgICAgZW50ZXJBcHAuY2xpY2soKQoKICAgIEBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgidXNlcm5hbWUscGFzc3dkLG1lc3NhZ2UiLFsKICAgICAgICAoIjEwMTM5IiwiMTIzNHF3ZXIiLCK1x8K8s8m5piIpLAogICAgICAgICgiMTAxMzkiLCIxMjM0NTY3ODkiLCK1x8K8yqew3CIpCiAgICBdKQogICAgZGVmIHRlc3RfbG9naW5fcGFzc3dvcmQoc2VsZix1c2VybmFtZSxwYXNzd2QsbWVzc2FnZSk6CiAgICAgICAgc2VsZi5sb2dpblBhZ2UubG9naW5CeVBhc3N3b3JkKHVzZXJuYW1lLHBhc3N3ZCkKICAgICAgICBhc3NlcnQgbWVzc2FnZSBpbiBzZWxmLmxvZ2luUGFnZS5nZXRFcnJvck1zZygpCgogICAgZGVmIHRlYXJkb3duX21ldGhvZChzZWxmKToKICAgICAgICBzZWxmLmxvZ2luUGFnZS5iYWNrKCk=</text>
       </register>
       <register name="9" type="4">
-        <text>,
-            &quot;id&quot;:2</text>
+        <text encoding="base64">ICAgIGRlZiBzZXR1cF9tZXRob2Qoc2VsZik6CgogICAgICAgIHNlbGYubG9naW5QYWdlID0gc2VsZi5maXJzdFBhZ2UuZ290b0xvZ2luKCk=</text>
       </register>
     </registers>
     <search>
